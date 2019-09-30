@@ -1,5 +1,5 @@
 # Optimizing Profit by Predicting Loan Default and Using Cost-Benefit Anlysis
-This is Metis Project 5
+This is Metis Project 5.
 
 ## Objective
 The objective of this project is to predict the probability of loan default of lending business and use Cost-Benefit Analysis to optimize the profit. The data used for this project is from Home Credit (an international non-bank financial institution founded in 1997 in the Czech Republic and headquartered in Netherlands) obtained from Kaggle competition. Due to the imbalanced classes in the dataset, oversampling was used to improve the performance of model prediction.
