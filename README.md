@@ -1,4 +1,4 @@
-# Optimizing Profit by Predicting Loan Default and Using Cost-Benefit Anlysis
+# Optimizing Profit by Predicting Loan Default and Using Cost-Benefit Anlaysis
 This is Metis Project 5.
 
 ## Objective
